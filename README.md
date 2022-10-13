@@ -1,4 +1,4 @@
-# TypeScript Example
+# Expo Storage and HTTP fetch Example
 
 <p>
   <!-- iOS -->
